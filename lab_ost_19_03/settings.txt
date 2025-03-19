@@ -1,0 +1,5 @@
+T = 0.04, f = 28.48
+Points on charge: 181
+T = 0.30059946164852236, f = 3.326685931225172
+Points on discharge: 82
+ADC precision: 0.012890625 V
